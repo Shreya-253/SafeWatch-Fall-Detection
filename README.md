@@ -17,6 +17,7 @@ I am building this project in 30 days to learn:
 ## Project Status
 
 Day 1: Project repository created.
+Day 2: OpenCV webcam feed working successfully.
 
 ## Note
 
