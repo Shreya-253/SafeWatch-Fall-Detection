@@ -31,6 +31,8 @@ Day 2: OpenCV webcam feed working successfully.
 - Day 7: Added pose detection and skeleton overlay for local video input.
 
 - Day 8: Optimized pose detection by resizing frames and processing every third frame.
+
+- Day 9: Added torso-angle and body-size feature extraction for basic posture classification.
 ## Note
 
 This will be an educational project and not a medical or emergency-use system.
