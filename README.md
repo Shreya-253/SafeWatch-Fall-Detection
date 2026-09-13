@@ -21,6 +21,8 @@ Day 1: Project repository created.
 Day 2: OpenCV webcam feed working successfully.
 
  Day 3: Local video playback, portrait/landscape window support, and timestamped screenshot saving added.
+
+- Day 4: Added video metadata, frame counter, playback time, and progress bar. 
 ## Note
 
 This will be an educational project and not a medical or emergency-use system.
