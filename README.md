@@ -27,6 +27,8 @@ Day 2: OpenCV webcam feed working successfully.
 - Day 5: Installed MediaPipe for pose estimation.
 
 - Day 6: Detected 33 body landmarks on a saved test image.
+
+- Day 7: Added pose detection and skeleton overlay for local video input.
 ## Note
 
 This will be an educational project and not a medical or emergency-use system.
