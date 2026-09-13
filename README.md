@@ -29,6 +29,8 @@ Day 2: OpenCV webcam feed working successfully.
 - Day 6: Detected 33 body landmarks on a saved test image.
 
 - Day 7: Added pose detection and skeleton overlay for local video input.
+
+- Day 8: Optimized pose detection by resizing frames and processing every third frame.
 ## Note
 
 This will be an educational project and not a medical or emergency-use system.
