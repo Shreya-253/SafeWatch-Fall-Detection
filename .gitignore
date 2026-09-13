@@ -181,3 +181,4 @@ cython_debug/
 .cursorindexingignore
 data/test_videos/*.mp4
 outputs/screenshots/*.jpg
+models/*.task

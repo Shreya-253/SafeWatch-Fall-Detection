@@ -23,6 +23,10 @@ Day 2: OpenCV webcam feed working successfully.
  Day 3: Local video playback, portrait/landscape window support, and timestamped screenshot saving added.
 
 - Day 4: Added video metadata, frame counter, playback time, and progress bar. 
+
+- Day 5: Installed MediaPipe for pose estimation.
+
+- Day 6: Detected 33 body landmarks on a saved test image.
 ## Note
 
 This will be an educational project and not a medical or emergency-use system.
